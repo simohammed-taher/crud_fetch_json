@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "name": "SIMO",
+      "email": "TAHER@.com",
+      "phone": "061991678",
+      "active": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "BRAHIM",
+      "email": "BRAHIM@.com",
+      "phone": "06199999"
+    },
+    {
+      "name": "MEHDI",
+      "email": "MEHDI@.com",
+      "phone": "06122222",
+      "id": 3
+    },
+    {
+      "name": "MOHAMMED TAHER",
+      "email": "simohamedtaher123@gmail.com",
+      "phone": "0619916783",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
